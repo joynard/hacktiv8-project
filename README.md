@@ -14,7 +14,7 @@ Dataset yang digunakan dalam proyek ini adalah `data_clean_danantara.csv`, yang 
 - **Periode:** Januari - Maret 2025
 - **Link Dataset:** `https://www.kaggle.com/datasets/rezkanorhafizah/analisis-sentimen-publik-danantara`
 
-## 🛠️ Tools dan Library
+## Tools dan Library
 
 - **Bahasa Pemrograman:** Python
 - **Lingkungan Kerja:** Google Colab
